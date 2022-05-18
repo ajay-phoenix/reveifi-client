@@ -1,0 +1,85 @@
+[33mcommit 0fe4967e2638bbd965cce56873b6308a0f34dc55[m[33m ([m[1;36mHEAD -> [m[1;32mui-pages[m[33m, [m[1;31morigin/ui-pages[m[33m)[m
+Author: sunny <sunny.sahotra@gmail.com>
+Date:   Sun Sep 27 03:25:22 2020 +0500
+
+    Code update
+
+[33mcommit d327ceb4acd39944406e8e003737f58ca9921b2c[m
+Merge: 27190dc 1d5785c
+Author: sunny <sunny.sahotra@gmail.com>
+Date:   Sat Sep 26 21:04:17 2020 +0500
+
+    conflict resolved from master
+
+[33mcommit 27190dc6f3664632865064d83d88cd75828037d3[m
+Merge: 7df8ad3 add9bd0
+Author: sunny <sunny.sahotra@gmail.com>
+Date:   Sat Sep 26 20:55:23 2020 +0500
+
+    merging
+
+[33mcommit 7df8ad3372a24e0c606933428c4c7a0cf7cc4bae[m
+Author: sunny <sunny.sahotra@gmail.com>
+Date:   Sat Sep 26 20:51:34 2020 +0500
+
+    Updating Site
+
+[33mcommit add9bd074d788e521a54271d66e8921557214572[m
+Author: Asif Ali <asifali56@gmail.com>
+Date:   Fri Sep 25 14:49:11 2020 +0500
+
+    email confirmation
+
+[33mcommit 1d5785ca134a87a21b0c6d6355a054d769b2aa5d[m
+Merge: 6b25bf3 3714e38
+Author: sameer-sunny <sunny.sahotra@gmail.com>
+Date:   Fri Sep 25 12:19:18 2020 +0500
+
+    Merge pull request #3 from seekstris/feature
+    
+    feature updated
+
+[33mcommit 3714e38f14afcde86950971a608684ba8f78a522[m
+Author: sunny <sunny.sahotra@gmail.com>
+Date:   Fri Sep 25 12:16:57 2020 +0500
+
+    feature updated
+
+[33mcommit c425318dd7ecd7cb86fd98b1ed5c969d19a538b0[m
+Author: Asif Ali <asifali56@gmail.com>
+Date:   Sat Sep 19 16:56:37 2020 +0500
+
+     ui pages
+
+[33mcommit 6b25bf392f2b2b2f84cb60a521147efad7d76728[m
+Merge: aa6af06 997e338
+Author: seekstris <54434536+seekstris@users.noreply.github.com>
+Date:   Thu Sep 17 19:18:15 2020 +0500
+
+    Merge pull request #1 from seekstris/ui-implementation
+    
+    Ui implementation
+
+[33mcommit 997e33859b03069fb249362ba4b45867d72d14e0[m[33m ([m[1;31morigin/ui-implementation[m[33m)[m
+Author: Asif Ali <asifali56@gmail.com>
+Date:   Wed Sep 16 15:18:18 2020 +0500
+
+    html conversion into reactjs
+
+[33mcommit 88e1e55937e58675ec242d8fdf743ca14e5e2e4f[m[33m ([m[1;31morigin/Client-pushed[m[33m)[m
+Author: sameer-sunny <sunny.sahotra@gmail.com>
+Date:   Tue Sep 15 16:49:10 2020 +0500
+
+    Update README.md
+
+[33mcommit ef5337185b42943d5c6bab0393ebbff6ef966e8d[m
+Author: sunny <sunny.sahotra@gmail.com>
+Date:   Tue Sep 15 16:46:12 2020 +0500
+
+    Client Pushed
+
+[33mcommit aa6af061ae05bc6e030b475fe16296ad60381a25[m
+Author: seekstris <54434536+seekstris@users.noreply.github.com>
+Date:   Tue Sep 15 15:07:02 2020 +0500
+
+    Initial commit

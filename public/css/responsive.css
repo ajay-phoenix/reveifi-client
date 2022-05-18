@@ -1,0 +1,556 @@
+@media screen and (max-width:1640px){
+ .ndp-dashboard-listing li.ndp-dl-big-box { width: calc(26% - 30px); } 
+ .ndp-dashboard-listing li.ndp-dl-small-box { width: calc(16% - 20px); } 
+ .ndp-dashboard-listing li { margin-right: 25px; } 
+ .pps-pd-box { width: 620px; } 
+ .ppspd-image-message-box { width: 300px; } 
+ .ppspd-image-box { width: 300px; height: 300px; } 
+ .ppspd-message-box { font-size: 16px; width: 190px; border-radius: 10px; margin-top: -40px; font-weight: 600; } 
+ .ppspd-message-box img { width: 24px; position: relative; top: -1px; } 
+ .ppspd-invite-box { margin-top: 50px; height: 50px; border-radius: 10px; font-size: 18px; } 
+ .ppspd-content-box { margin-left: 60px; width: calc(100% - 360px); } 
+ .ppspd-name { font-size: 26px; } 
+ .ppspd-title-company { font-size: 16px; } 
+ .ppspd-usertye img { width: 60px; } 
+ .ppspd-companyname { font-size: 20px; } 
+ .ppspd-address { font-size: 14px; margin-bottom: 15px; } .ppspd-phone, .ppspd-mail { font-size: 18px; } 
+ .ppspd-phone img, .ppspd-mail img { width: 17px; margin-right: 7px; } 
+ }
+
+@media screen and (max-width:1560px){
+ .loginpage, .edit-profile-page { padding: 30px 0; max-width: 1500px; justify-content: space-evenly; } 
+ .login-image, .edit-profile-image { width: 500px; } 
+ .login-form, .edit-profile-form { width: 580px; margin-left: 0; } 
+ .mpl-data-box, .mpl-dtl-list-row, .cdl-data-box, .property-status-box, .ob-tab-title-list, .vpil-data-list, .bidhdv-list-row { max-width: 100%; padding: 20px; } 
+ .page-title, .lb-title-box, .rb-title-box, .ps-title, .bidhdv-title { font-size: 20px; font-weight: 500; padding: 10px; } 
+ .pst-icon { width: 50px; height: 50px; } 
+ .lb-title-box h3, .rb-title-box h3 { font-size: 20px; } 
+ .property-status-page { padding: 0; } 
+ .psp-content-box { width: calc(60% - 40px); } 
+ .ob-tab-title-list-box { padding: 0; } 
+ .ob-tab-title-list { padding: 15px 20px; } 
+ .vpil-invite-box { font-size: 22px; } 
+ .vpil-trans-box { font-size: 16px; } 
+ .vpil-time-box { font-size: 14px; } 
+ .vpil-property-dtl { font-size: 14px; } 
+ .vpil-price-status-row { margin-bottom: 10px; } 
+ .vpil-listprice-box, .status-box { font-size: 16px; } 
+ .vpil-property-dtl span { font-size: 17px; } 
+ .ob-tab-title-list li { height: 40px; padding: 0 15px 3px; font-size: 15px; } 
+ .mplr-offerprice-box { font-size: 22px; } 
+ .property-name-address-price { padding: 20px; } .pnap-property-name-address-box h3, .pnap-price-box p, .bid-sc-title-box span { font-size: 26px; } 
+ .bid-header-transaction-box { padding: 0px 20px 20px; font-size: 17px; } 
+ .bid-status-title { font-size: 18px; } 
+ .bid-status-title img { height: 16px; margin-top: -1px; } 
+ .bdl-full-list li, .bdl-left-list li, .bdl-history-list li { font-size: 16px; } 
+ .bid-sc-title-box img { width: 80px; } .bid-sc-title-box span { margin: 10px 0 0; } 
+ .bid-sc-title-box b { font-size: 20px; } 
+ .bid-title { font-size: 20px; margin-bottom: 20px; } 
+ .bid-nextstep-box { padding: 80px 0 50px; } 
+ a.bidhdv-buton { width: 200px; height: 44px; font-size: 14px; padding-bottom: 1px; } 
+ .bidhdv-list { padding: 0 20px; } 
+ .bidhdv-list li { padding: 0; } 
+ .bid-sc-chart-box { max-width: 100%; } 
+ .select-latl.login-account-type-list li a { font-size: 16px !important; padding: 10px; } 
+ .select-latl.login-account-type-list li a i { font-size: 40px !important; } 
+ .select-latl.login-account-type-list { margin-bottom: 5px; } 
+ .backbtn-box img { width: 16px; } 
+ .new-dashboard-page { padding: 30px 25px 0; } 
+ .ndp-dashboard-listing li.ndp-dl-big-box { width: calc(24% - 10px); } 
+ .ndp-dashboard-listing li.ndp-dl-small-box { width: calc(17% - 20px); } 
+ }
+
+@media screen and (max-width:1460px){
+ .inner-container { margin: 0; max-width: 100%; padding: 0 30px; } 
+ .chat-left-box { width: 370px; margin-right: 30px; } 
+ .chat-right-box { width: calc(100% - 400px); } 
+ .user-chat-listing li { padding: 13px 15px; border-left: 3px solid transparent; } 
+ .user-chat-listing li.active, .user-chat-listing li:hover { border-left: 3px solid #B2D235; } 
+ .user-chat-listing li h5 { margin: 0 0 10px; font-size: 16px; } 
+ .ucl-dec { font-size: 14px; } 
+ .ucl-sender-time { font-size: 13px; } 
+ .chbp-title-dec { margin-top: 4px; } 
+ .chbp-title { font-size: 18px; } 
+ .chbp-address { font-size: 14px; } 
+ .chbp-icon-box img { width: 30px; } 
+ .chat-title { font-size: 18px; } 
+ .chat-person-time { font-size: 14px; } 
+ .psp-amount-box { font-size: 30px; } 
+ .psp-property-detail-list li { font-size: 16px; } 
+ .psp-image-box { width: 46%; } 
+ .psp-content-box { width: calc(54% - 40px); } 
+ .ndp-message-toggle-btn-row h3 { font-size: 30px; } 
+ .ndp-right-box .alert { margin: 0; padding: 10px; font-size: 14px; } 
+ .ndp-dashboard-listing li { padding: 15px 15px 10px; } 
+ .ndp-dl-icon-box { width: 50px; height: 50px; } 
+ .ndp-nl-icon-count-box b { font-size: 34px; } 
+ .ndp-dashboard-listing li span { font-size: 16px; } 
+ .ndp-nl-icon-count-box { margin-bottom: 10px; } 
+ .ndp-dashboard-content-listing { padding-top: 24px; margin-bottom: 20px; } 
+ .ndp-dashboard-listing li.active:after { bottom: -28px; height: 40px; } 
+ }
+
+ @media screen and (max-width:1290px){
+ .ndp-dashboard-listing li { padding: 10px; border: 1px solid transparent; border-radius: 10px; -webkit-box-shadow: 0px 0px 3px 0px rgb(0 0 0 / 20%); -moz-box-shadow: 0px 0px 3px 0px rgb(0 0 0 / 20%); box-shadow: 0px 0px 3px 0px rgb(0 0 0 / 20%); } 
+ .ndp-nl-icon-count-box { margin-bottom: 10px; padding: 0 10px; } 
+ .ndp-dashboard-listing li span { font-size: 15px; } 
+ }
+
+ @media screen and (max-width:1260px){
+ .dashboard-page { margin-top: 40px; } 
+ .dashboard-page h3 { margin: 0; font-size: 22px; } 
+ .dashboard-button-listing { margin-top: 15px; margin-bottom: 10px; } 
+ .dp-buying-selling-listing { margin-top: 20px; } 
+ .dashboard-button-listing li { width: calc(18% - 20px); padding: 15px; } 
+ .dashboard-button-listing li:nth-child(1), .dashboard-button-listing li:nth-child(2) { width: calc(24% - 20px); } 
+ .dbl-icon-number svg { width: 40px; height: 40px; } 
+ .dbl-icon-number span { font-size: 40px; line-height: 30px; } 
+ .dbl-title { font-size: 16px; margin-top: 15px; } 
+ .dashboard-button-listing li a { font-size: 12px; } 
+ .dbbsl-title { font-size: 17px; } 
+ .dbbsl-title sup { font-size: 11px; } 
+ .dbbsl-plus-box { width: 28px; height: 28px; top: 9px; right: 10px; font-size: 20px; padding-bottom: 4px; -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.30); -moz-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.30); box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.30); } 
+ .dbbsl-title-plus-box { padding: 10px; } 
+ .dbbsl-listing { padding: 20px 0; border-radius: 15px; } 
+ .dp-buying-selling-listing > li.active .dbbsl-plus-box { width: 44px; height: 44px; position: absolute; right: 10px; top: 14px; padding-bottom: 7px; font-size: 30px; } 
+ .dp-buying-selling-listing > li { width: calc(50% - 10px); margin-right: 20px; } 
+ .dbbsl-listing > li { margin: 15px 0; padding: 0 20px; } 
+ .str-icon { width: 10px; height: 10px; margin-right: 5px; } 
+ .dbbsl-status-time-row span { font-size: 12px; } 
+ .dbbsl-title-row { margin-top: -2px; } 
+ .dbbsl-title-row b { font-size: 16px; } 
+ .dbbsl-sub-listing li { font-size: 13px; } 
+ .dbbsl-sub-listing li:after { margin: 2px 6px 0; font-size: 11px; } 
+ .loginheader { padding: 0 20px; height: 60px; } 
+ .loginpage { min-height: calc(100vh - 60px); } 
+ .login-form, .edit-profile-form { width: 500px; } 
+ .edit-profile-form-box { padding: 20px 20px; } 
+ .epfb-tab-title-list { width: calc(100% + 40px); } 
+ .epfb-tab-title-list > li { width: auto; padding: 10px 15px; font-size: 15px; } 
+ .edit-profile-image img { max-width: 100%; } 
+ .login-image, .edit-profile-image { width: 360px; } 
+ .lh-navigation-list li { margin-left: 30px; font-weight: 700; letter-spacing: 1px; font-size: 14px; } 
+ .loginpage { padding: 30px 15px; align-items: center; } 
+ .login-account-type-list li a i { margin-right: 6px; } 
+ .login-form-box { padding: 20px; } 
+ .login-form h1, .edit-profile-form h1 { margin: 0 0 20px; font-size: 18px; letter-spacing: 3px; } 
+ .login-form-box h3, .edit-profile-form h3 { font-size: 16px; margin: 0 0 15px; font-weight: 500; } 
+ .epf-inputfld-list { margin-bottom: 0; } 
+ .login-account-type-list { margin: 0 0 20px; } 
+ .login-account-type-list li { width: calc(33.33% - 8px); } 
+ .login-account-type-list li a { font-size: 14px; padding: 8px 10px; } 
+ .login-account-type-list li.active a { -webkit-box-shadow: 0px 3px 10px 3px rgba(178,210,53,0.4); -moz-box-shadow: 0px 3px 10px 3px rgba(178,210,53,0.4); box-shadow: 0px 3px 10px 3px rgba(178,210,53,0.4); } 
+ .lib-inputtextfld-box input, .sup-inputtextfld-box input, .sup-inputtextfld-box select, .lib-inputtextfld, .epf-select-div select { height: 40px; border: 1px solid #ccc !important; } 
+ .sup-inputtextfld-box > span.dropdownicon, .epf-select-div > span.dropdownicon { height: 40px; width: 30px; } 
+ .sup-inputtextfld-box span.help-block { font-size: 12px; position: absolute; left: 2px; bottom: 9px; } 
+ .sup-inputtextfld-box span img, .epf-select-div > span img { width: 14px; } 
+ .lib-inputtextfld-box, .sup-inputtextfld-box { padding-bottom: 25px; } 
+ .lib-inputtextfld-box span.help-block { font-size: 12px; position: absolute; left: 2px; bottom: 9px; } 
+ .sup-inputtextfld-box span { font-size: 11px; bottom: 5px; } 
+ .lib-inputcheckfld-box { margin-bottom: 20px; } 
+ .lib-forget-signup-row { margin: 10px 0 0; font-size: 15px; } 
+ .lib-login-btn { height: 40px; font-size: 15px; -webkit-box-shadow: 0px 2px 10px 3px rgba(178,210,53,0.5); -moz-box-shadow: 0px 2px 10px 3px rgba(178,210,53,0.5); box-shadow: 0px 2px 10px 3px rgba(178,210,53,0.5); } 
+ .chat-page { padding: 20px; } 
+ .chat-left-box { width: 340px; margin-right: 20px; height: calc(100vh - 110px); } 
+ .chat-left-box > span { padding: 10px 20px; font-size: 15px; letter-spacing: 2px; height: 40px; } 
+ .user-chat-listing li { padding: 10px; } 
+ .user-chat-listing li h5 { margin: 0 0 5px; font-size: 15px; } 
+ .ucl-dec { font-size: 13px; } 
+ .ucl-sender-time { font-size: 12px; } 
+ .chat-right-box { width: calc(100% - 360px); } 
+ .chbp-image-box { width: 60px; height: 60px; } 
+ .chbp-title { font-size: 16px; } 
+ .chbp-address { font-size: 13px; } 
+ .chbp-icon-box img { width: 25px; } 
+ .chbp-icon-box { margin-right: 15px; } 
+ .chat-with-justin { margin: 10px 0; height: calc(100vh - 260px); } 
+ .chat-title { font-size: 16px; } 
+ .chat-person-time { font-size: 13px; } 
+ .first, .second { padding: 5px 15px; border-radius: 5px; } 
+ .submit-property-page h3 { font-size: 18px; } 
+ .submit-property-box { width: 100%; max-width: 900px; margin: 20px 0; } 
+ .dp-input-list li { padding: 0 25px; margin-bottom: 20px; } 
+ .dp-input-list li .help-block { left: 25px; } 
+ .epf-select-div select, .sup-inputtextfld-box select, select.dp-selectfld, .dp-inputfld { border: 1px solid #ccc !important; height: 40px; } 
+ .dpselect-span-box {height: 40px;}
+ .dropdownicon { height: 40px; } 
+ .dp-inputfile-box label { height: 36px; } 
+ .mpl-icon-box, .cdl-image-box { width: 200px; height: 160px; } 
+ .mpl-dec-box, .cdl-content-box { width: calc(100% - 220px); margin-left: 20px; } 
+ .pst-icon { width: 50px; height: 47px; } 
+ .page-title, .ps-title, .bidhdv-title { font-size: 18px; } 
+ .mpll-btn-row > a, .mpll-btn-row > span, .md-dropdown > a, .cdlcr-button { height: 32px; letter-spacing: 0.5px; border-radius: 5px; margin-right: 15px; font-size: 13px; padding-bottom: 2px; -webkit-box-shadow: 0px 1px 2px 1px rgba(178,210,53,0.5); -moz-box-shadow: 0px 1px 2px 1px rgba(178,210,53,0.5); box-shadow: 0px 1px 2px 1px rgba(178,210,53,0.5); } 
+ .mpll-title { font-size: 20px; } 
+ .mpll-dec { font-size: 14px; } 
+ .mpll-price { margin-top: 10px; font-size: 14px; } 
+ .mplr-latestoffer-box, .mplr-offermade-box { font-size: 15px; margin-bottom: 2px; } 
+ .mplr-offerprice-box { font-size: 22px; } 
+ .mpl-dtl-dec { font-size: 16px; } 
+ .mpl-dtl-img { margin-right: 15px; } 
+ .mplr-status-box { font-size: 15px; } 
+ .add-realtor-popup-page, .bid-checklist-popup-page { padding-bottom: 30px; } 
+ .arp-close-btn, .bid-checklist-popup-close-btn { width: 570px; height: 50px; } 
+ .arp-close-btn img, .bid-checklist-popup-close-btn img { width: 40px; } 
+ .add-realtor-popup, .bid-checklist-popup { width: 500px; border-radius: 10px; padding: 20px; } 
+ .arp-title, .bidcp-header h3 { font-size: 16px; padding: 0 0 10px; } 
+ .bidcp-header h3 { padding-bottom:0; } 
+ .bidcp-plus-minus-sign-box img { width: 26px; height: 26px; } 
+ .lb-title-box h3, .rb-title-box h3 { font-size: 18px; margin-left: 0; text-align: left; } 
+ .lb-title-box, .rb-title-box { padding: 10px 15px; } 
+ .lender-box, .realtor-box { padding: 0 15px; margin-top: 20px; } 
+ .cdl-pdb-box h5 { font-size: 19px; } 
+ .cdl-pdb-box span { font-size: 15px; } 
+ .cdl-pdb-price-box, .cdl-pdb-price-box b { font-size: 14px; } 
+ .property-status-box { flex-wrap: wrap; } 
+ .psp-image-box { width: auto; max-width: 500px; } 
+ .psp-content-box { width: 100%; margin-top: 30px; } 
+ .vpil-image-box { width: 260px; height: 180px; } 
+ .vpil-dec-box { width: calc(100% - 280px); margin-left: 20px; } 
+ .vpil-invite-box { font-size: 20px; } 
+ .vpil-trans-box { font-size: 15px; } 
+ .vpil-time-box { font-size: 13px; } 
+ .vpil-property-dtl { font-size: 13px; } 
+ .vpil-price-status-row { margin-bottom: 10px; } 
+ .vpil-listprice-box, .status-box { font-size: 15px; } 
+ .vpil-property-dtl span { font-size: 16px; } 
+ .bid-sc-title-box img { width: 60px; } 
+ .bid-status-title { font-size: 17px; } 
+ .bid-status-title span { margin-right: 10px; } 
+ .bid-status-title img { height: 15px; margin-top: -2px; } 
+ .bid-details-sort-dot-row { padding: 0 15px; } 
+ .bid-details-list-box { padding: 15px; } 
+ .bdl-full-list li, .bdl-left-list li, .bdl-history-list li { font-size: 15px; margin-bottom: 6px; } 
+ .bdl-history-list li.bdl-title-fullwidth { font-size: 18px; margin-bottom: 15px; letter-spacing: 1px; } 
+ .bdl-full-list { margin: 0 0 15px; } 
+ .property-name-address-price { padding: 10px 20px; } 
+ .bid-nextstep-box { padding: 50px 0 40px; } 
+ .bid-nextstep-popup-box { padding: 15px 20px 20px; -webkit-box-shadow: 0px 5px 10px 3px rgba(0,0,0,0.1); -moz-box-shadow: 0px 5px 10px 3px rgba(0,0,0,0.1); box-shadow: 0px 5px 10px 3px rgba(0,0,0,0.1); } 
+ .bid-chat-box { padding: 20px; -webkit-box-shadow: 0px 5px 10px 3px rgba(0,0,0,0.1); -moz-box-shadow: 0px 5px 10px 3px rgba(0,0,0,0.1); box-shadow: 0px 5px 10px 3px rgba(0,0,0,0.1); } 
+ .submit-bid-btn input[type="submit"] { margin-top: 20px; padding: 7px 30px; } 
+ .bid-title, .bid-property-name b { font-size: 18px; } 
+ .bid-sc-chart-box { width: 100%; overflow-x: auto; } 
+ ul.bid-sc-chart-list { width: 1340px; } 
+ .select-latl.login-account-type-list li a { font-size: 15px !important; padding: 10px; } 
+ .select-latl.login-account-type-list li a i { font-size: 36px !important; } 
+ .select-latl.login-account-type-list { margin-bottom: 5px; } 
+ .ndp-button { height: 50px; font-size: 15px; } 
+ .ndp-button img { width: 22px; margin-right: 5px; } 
+ .ndp-dashboard-listing li { margin-right: 20px; } 
+ .ndp-dashboard-listing li.ndp-dl-small-box { width: calc(18% - 20px); } 
+ .ndp-dashboard-listing li.ndp-dl-big-box { width: calc(23% - 10px); } 
+ .new-dashboard-page { padding: 20px 20px 0; } 
+ }
+
+ @media screen and (max-width:1024px){
+ .dashboard-button-listing { flex-wrap: wrap; } 
+ .dashboard-button-listing li { width: calc(33.33% - 14px); margin-right: 21px; } 
+ .dashboard-button-listing li:nth-child(1), .dashboard-button-listing li:nth-child(2) { width: calc(50% - 10px); margin-right: 0; margin-bottom: 20px; } 
+ .dashboard-button-listing li:nth-child(1) { margin-right: 20px; } 
+ .dashboard-button-listing li:nth-child(5) { margin-right: 0; } 
+ .dp-buying-selling-listing { flex-wrap: wrap; } 
+ .dp-buying-selling-listing > li { width: 100%; margin-right: 0; } 
+ .dp-buying-selling-listing > li:nth-child(1) .dbbsl-title-plus-box { border-bottom: 0; } 
+ .dbbsl-listing { margin-bottom: 30px; } 
+ .left-menu-icon { margin-right: 20px; } 
+ .page-title, .ps-title, .bidhdv-title { font-size: 16px; color: #555; } 
+ .pst-icon { width: 50px; height: 44px; } 
+ .lender-table thead th, .realtor-table thead th { padding: 10px 15px; font-size: 15px; } 
+ .lender-table tbody td, .realtor-table tbody td { padding: 10px 15px; font-size: 15px; } 
+ .rt-icon-image img { height: 20px; } 
+ .lender-table thead th.rt-btn-td, .realtor-table thead th.rt-btn-td { width: 100px; } 
+ .bidhdv-list { padding: 0; } 
+ .ndp-dashboard-listing { flex-wrap: wrap; } 
+ .ndp-dashboard-listing li.ndp-dl-big-box { width: calc(50% - 10px); margin-right: 0; margin-bottom: 20px; } 
+ .ndp-dashboard-listing li.ndp-dl-small-box { width: calc(33.33% - 14px); margin-right: 21px; } 
+ .ndp-dashboard-listing li:nth-child(1) { margin-right: 20px; } 
+ .ndp-dashboard-listing li:nth-child(5) { margin-right: 0; } 
+ .ndp-dashboard-content-listing { padding-top: 0; margin-bottom: 10px; } 
+ .ndp-dashboard-content-listing li.active { position: fixed; top: 0; background: #fff; left: 0; height: 100vh; overflow: auto; display: flex; flex-direction: column; z-index: 111; border-radius: 0; border: none !important; -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; } 
+ .ndp-dc-close-btn { position: absolute; top: 10px; right: 10px; width: 30px; height: 30px; } 
+ .ndp-dc-close-btn img { width: 20px; } 
+ .ndp-dashboard-listing li span { font-size: 17px; } 
+ .ndp-dc-button-row { padding: 15px 10px; } .ndp-dc-button-row > span { font-size: 15px; border-radius: 6px; padding: 7px 13px; margin-right: 10px; } 
+ .ndp-dc-table-box { overflow: auto; } 
+ .ndp-dc-table { min-width: 700px; } 
+ .ndp-dc-table thead th { font-size: 15px; padding: 8px 10px; background: #7d7d7d; color: #fff; } 
+ .ndp-dc-table tbody td { font-size: 14px; padding: 10px; } 
+ .ppspd-image-box { width: 260px; height: 260px; } 
+ .ppspd-image-message-box { width: 260px; } 
+ .ppspd-content-box { margin-left: 40px; width: calc(100% - 300px); } 
+ .pps-pd-box { width: 540px; } 
+ }
+
+ @media screen and (max-width:900px){
+ .login-image, .edit-profile-image { display: none; } 
+ .loginpage { padding: 30px 20px; } 
+ .login-form, .edit-profile-form { width: 100%; max-width: 500px; } 
+ .sup-inputtextfld-box { width: 100%; } 
+ .chat-left-box { width: 260px; } 
+ .chat-right-box { width: calc(100% - 270px); } 
+ .login-form-box, .edit-profile-form-box, .submit-property-box { -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.1); -moz-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.1); box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.1); } 
+ .submit-property-page { padding: 30px 20px; } 
+ .submit-property-box { margin: 15px 0; padding: 20px; } 
+ .dp-input-list li { padding: 0; } 
+ .dp-input-list li:nth-child(even) { padding-left: 20px; } 
+ .dp-input-list li .help-block { left: 22px; } 
+ .dp-title { font-size: 16px; margin-bottom: 20px; } 
+ .mpl-dec-box { flex-direction: column; justify-content: flex-start; } 
+ .mpll-btn-row { display: none; }
+  table .mpll-btn-row { display: block!important; } 
+  table .mpll-btn-row a { padding: 0px 15px!important; width: auto!important; margin: 0px 4px!important; }
+ .res-button-box, .pl-button-box { display: flex; width: 200px; } 
+ .res-button-box .mpll-btn-row, .pl-button-box .mpll-btn-row { width: 100%; display: flex; flex-direction: column; margin: 0; justify-content: space-evenly; } 
+ .mpll-btn-row > a, .mpll-btn-row > span, .md-dropdown > a { width: 100%; margin: 0; height: auto; padding: 10px; text-align: center; min-height: 30px; } 
+ .mpl-right-box { text-align: left; margin-top: 10px; } 
+ .mplr-offerprice-box { margin-top: 15px; } 
+ .vpil-invite-btn-box { flex-direction: column; align-items: flex-start; } 
+ button.vpil-buying-btn { margin: 13px 0; } 
+ .vpil-price-status-row { flex-direction: column; margin-top: 10px; } 
+ .vpil-property-dtl { margin-top: 10px; } 
+ .vpil-image-box { width: 220px; height: 160px; } 
+ .bid-sc-title-box img { width: 40px; } 
+ .bid-sc-title-box span { margin: 10px 0 0; font-size: 22px; line-height: 20px; } 
+ .bid-sc-title-box b { font-size: 18px; } 
+ .bdl-full-list li, .bdl-left-list li, .bdl-history-list li { font-size: 14px; margin-bottom: 5px; } 
+ .bdl-history-list li.bdl-title-fullwidth { font-size: 17px; } 
+ .bdl-left-list { width: calc(50% - 15px); margin-right: 30px; } 
+ .bid-nextstep-box { padding: 30px; border-top: 1px solid #eee; border-bottom: 1px solid #eee; margin-top: 20px; } 
+ .bid-nextstep-popup-box { padding: 15px 20px 20px; -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; max-width: 100%; border: 1px solid #ccc; } 
+ .bid-title, .bid-property-name b { font-size: 17px; } 
+ .bid-property-name span { font-size: 13px; } 
+ .bid-chat-box { padding: 0; -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; max-width: 100%; border: 1px solid #ccc; } 
+ .bid-chat-row { padding: 30px; } 
+ .bid-inner-chat-box { width: 100%; } 
+ p.para_align { margin: 0 0 20px !important; font-size: 13px; padding: 10px; } 
+ .bid-chat-icon { margin: 0 15px 0; } 
+ .bid-icon-name-dot-row > img { width: 24px; margin-right: 15px; } 
+ div#detail-bottom p { margin: 0 15px 10px auto !important; } 
+ div#inner-detil p { margin: 0 auto 15px 10px !important; } 
+ .chat-msgs { position: relative; padding: 15px; border-top: 1px solid #ccc; margin-top: 5px; } 
+ .bidhdv-list-row { padding: 15px; } 
+ a.bidhdv-buton { width: 130px; height: 42px; font-size: 13px; padding-bottom: 1px; line-height: 14px; } 
+ .bidhdv-img { width: 90px; height: 90px; margin-right: 15px; } 
+ .bidhdvc-title { font-size: 17px; } 
+ .bidhdv-dec { font-size: 16px; } 
+ .bidhdv-transaction { font-size: 14px; } 
+ .dp-submit-bid-row { width: 100%; margin: -10px 0 15px; } 
+ .bid-value-list-box { padding: 0; } 
+ }
+
+ @media screen and (max-width:760px){
+ .dashboard-button-listing-only3 li { width: calc(50% - 10px) !important; margin: 0 !important; } 
+ .dashboard-button-listing-only3 li:nth-child(3n) { margin:20px auto !important; } 
+ .lb-title-box a, .rb-title-box a { width: 120px; height: auto; padding:5px !important; margin-left: 25px; border: 1px solid #B2D235; font-size: 13px; letter-spacing: 0.2px; border-radius: 5px; cursor: pointer; -webkit-box-shadow: 0px 1px 5px 1px rgba(178,210,53,0.5); -moz-box-shadow: 0px 1px 5px 1px rgba(178,210,53,0.5); box-shadow: 0px 1px 5px 1px rgba(178,210,53,0.5); padding-bottom: 2px; } 
+ .lb-title-box, .rb-title-box { padding: 10px 10px; } 
+ .lender-box, .realtor-box { padding: 0 0; margin-top: 0; overflow: auto; } 
+ .realtor-table-box, .realtor-table-box { width: 100%; overflow: auto; } 
+ .lender-table, .realtor-table { min-width: 760px; } 
+ .cdl-content-box { flex-direction: column; } 
+ .cdlc-right-box { width: 100%; float: left; margin-top: 5px; } 
+ .cdlc-right-box b { margin-left: 0; margin-right: 5px; } 
+ .cdlcr-listprice { font-size: 16px; justify-content: flex-start; display: flex; } 
+ .cdl-pdb-price-box { margin: 5px 0; } 
+ button.cdlcr-button { margin-top: 15px; } 
+ .property-status-box { padding: 15px; } 
+ .bid-chat-row { padding: 20px; } 
+ .bid-nextstep-popup-box { padding: 15px; } 
+ .submit-bid-btn input[type="submit"] { font-size: 14px !important; margin-top: 15px !important; padding: 7px 30px !important; } 
+ .bid-nextstep-box { padding: 20px; } 
+ .bidcp-content { padding: 10px 0 0; } 
+ label.bidcp-checkbox-label { font-size: 16px; } 
+ input.bidcp-checkbox { height: 22px; width: 22px; } 
+ .bid-value-list-box { margin-bottom: 0; } 
+ .bid-value-list-box li { width: 20%; margin-bottom: 10px; } 
+ .page-title, .ps-title, .bidhdv-title { font-size: 15px; text-transform: capitalize; } 
+ .ndp-dashboard-listing li span { font-size: 16px; } 
+ .pps-pd-box { width: 100%; flex-direction: column; padding: 30px 15px; max-width: 300px; } 
+ .ppspd-image-message-box { width: 230px; } .ppspd-image-box { width: 230px; height: 230px; } 
+ .ppspd-message-box { font-size: 15px; width: 170px; border-radius: 10px; margin-top: -30px; font-weight: 600; padding: 10px 10px 7px; } 
+ .ppspd-message-box span { margin-left: 7px; } 
+ .ppspd-message-box img { width: 16px; } 
+ .ppspd-content-box { margin-left: 0; width: 100%; margin-top: 20px; text-align: center; } 
+ .ppspd-usertye { margin-top: 20px; margin-bottom: 20px; justify-content: center; } 
+ .ppspd-phone, .ppspd-mail { justify-content: center; } 
+ .ppspd-invite-box { margin-top: 30px; height: 40px; border-radius: 10px; font-size: 16px; } 
+ .ppspd-address { font-size: 14px; margin-bottom: 20px; } 
+ .pps-name-box { width: 210px; } 
+ .ndp-dc-table-box { padding: 0 15px 15px; } 
+ .ndp-dc-table { min-width: 100%; } 
+.ndp-dc-table thead { display: none; } 
+.ndp-dc-table tbody tr { display: block; margin-bottom: 15px; border: 1px solid #ccc; float: left; } 
+.ndp-dc-table tbody td { width: 100%; float: left; border-bottom: 1px solid #ccc !important; padding: 10px; } 
+.ndp-dc-table tbody td::before { width: 120px; float: left; font-weight: 600; font-size: 15px; } 
+.ndp-dc-table tbody td:nth-child(1)::before { content: "Number:"; } 
+.ndp-dc-table tbody td:nth-child(2)::before { content: "Property Title:"; } 
+.ndp-dc-table tbody td:nth-child(3)::before { content: "Address:"; } 
+.ndp-dc-table tbody td:nth-child(4)::before { content: "Amount:"; } 
+.ndp-dc-table tbody td:nth-child(5)::before { content: "Action:"; } 
+.ndp-dc-table tbody tr:nth-child(even) td { background: #fff; } 
+.ndp-dc-table tbody tr td:nth-child(even) { background: #F4F4F5; } 
+
+.realtor-table-box { padding: 15px; } 
+#ResponsiveTable { min-width: 100%; } 
+#ResponsiveTable thead { display: none; } 
+#ResponsiveTable tbody tr { display: block; margin-bottom: 15px; border: 1px solid #ccc; float: left; } 
+#ResponsiveTable tbody td { width: 100%; float: left; padding: 12px 15px; } 
+#ResponsiveTable tbody td::before { width: 150px; float: left; font-weight: 600; font-size: 16px; } 
+#ResponsiveTable tbody td:nth-child(1)::before { content: "First Name:"; } 
+#ResponsiveTable tbody td:nth-child(2)::before { content: "Last Name:"; } 
+#ResponsiveTable tbody td:nth-child(3)::before { content: "Email:"; } 
+#ResponsiveTable tbody td:nth-child(4)::before { content: "Company Name:"; } 
+#ResponsiveTable tbody td:nth-child(5)::before { content: "Address:"; } 
+#ResponsiveTable tbody td:nth-child(6)::before { content: "Action:"; } 
+#ResponsiveTable tbody tr:nth-child(even) td { background: #fff; } 
+#ResponsiveTable tbody tr td:nth-child(even) { background: #F4F4F5; } 
+#ResponsiveTable .rt-btns-box { justify-content: flex-start; } 
+#ResponsiveTable tbody tr.ResponsiveTableRow { display: none; } 
+.ResponsiveTableTitle { width: 100%; float: left; display: flex; justify-content: space-between; align-items: center; padding: 10px; background: #a5c71d; color: #fff; font-size: 16px; font-weight: 500; margin-bottom: 5px; } 
+#ResponsiveTable tbody tr.ResponsiveTableRow.active { display: block } 
+ }
+ 
+ @media screen and (max-width:640px){
+ .dashboard-page h3 { font-size: 18px; font-weight: 500; text-align: center; margin-bottom: 5px; } 
+ .chat-left-box { width: 100%; margin: 0; } 
+ .chat-right-box { width: 100%; position: absolute; right: 0; transform: translate3d(200%, 0px, 0px); -ms-transform: translate3d(200%, 0px, 0px); -webkit-transform: translate3d(200%, 0px, 0px); -moz-transform: translate3d(200%, 0px, 0px); -o-transform: translate3d(200%, 0px, 0px); -moz-transition: all 0.6s cubic-bezier(0.5, 0.3, 0.47, 0.81); -o-transition: all 0.6s cubic-bezier(0.5, 0.3, 0.47, 0.81); -webkit-transition: all 0.6s cubic-bezier(0.5, 0.3, 0.47, 0.81); transition: all 0.6s cubic-bezier(0.5, 0.3, 0.47, 0.81); padding: 0 20px; background: #fff; } 
+ .chat-page.addCSS .chat-right-box { transform: translate3d(0px, 0px, 0px); -ms-transform: translate3d(0px, 0px, 0px); -webkit-transform: translate3d(0px, 0px, 0px); -moz-transform: translate3d(0px, 0px, 0px); -o-transform: translate3d(0px, 0px, 0px); } .backbtn { display: block; width: 100%; float: left; padding: 10px; background: #b2d235; margin-bottom: 20px; text-transform: uppercase; font-weight: 500; color: #fff; letter-spacing: 10px; text-align: center; } 
+ .inner-container { padding: 0 20px; } 
+ .dashboard-button-listing li:nth-child(1), .dashboard-button-listing li:nth-child(2) { width: calc(50% - 6px); margin-right: 0; margin-bottom: 12px; } 
+ .dashboard-button-listing li:nth-child(1) { margin-right: 12px; } 
+ .dashboard-button-listing li { width: calc(33.33% - 8px); margin-right: 12px; -webkit-box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.30); -moz-box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.30); box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.30); } 
+ .dbl-title { font-size: 14px; margin-top: 10px; } 
+ .dashboard-page { margin-top: 20px; } 
+ .dashboard-button-listing { margin-bottom: 10px; } 
+ .dp-buying-selling-listing > li .dbbsl-title-plus-box { border-bottom: 0; } 
+ .dp-buying-selling-listing > li:last-child .dbbsl-title-plus-box { border-bottom: 1px solid #ccc; } 
+ .mpl-data-box { flex-wrap: wrap; } 
+ .mpl-dec-box { width: 100%; margin: 15px 0 0; order: 3; } 
+ .mpl-icon-box { order: 1; } 
+ .res-button-box, .pl-button-box { order: 2; margin-left: auto; } 
+ .arp-close-btn, .bid-checklist-popup-close-btn { width: 40px; height: 40px; position: absolute; top: 20px; right: 20px; } 
+ .add-realtor-popup, .bid-checklist-popup { width: calc(100% - 40px); } 
+ .arp-content { padding: 0; } 
+ .arp-inputfld-list { margin: 0; padding: 0; } 
+ .arp-btn-row { justify-content: center; } 
+ .psp-image-box { width: 100%; max-width: 100%; } 
+ .psp-amount-box { font-size: 24px; font-weight: 600; } 
+ .psp-tag { font-size: 14px; margin-top: -4px; } 
+ .psp-date { font-size: 13px; } 
+ .psp-property-detail-list li { font-size: 15px; } 
+ .psp-property-detail-list li b { width: 150px; padding: 6px 10px; } 
+ .ob-tab-title-list li { height: 34px; padding: 0 15px 3px; font-size: 13px; margin-right: 20px; } 
+ .vpil-data-list { flex-direction: column; } 
+ .vpil-dec-box { width: 100%; margin-left: 0; margin-top: 15px; } 
+ .vpil-invite-box { font-size: 18px; } 
+ .vpil-buying-btn { width: 160px; height: 34px; border: 1px solid #B2D235; font-size: 13px; border-radius: 5px; cursor: pointer; -webkit-box-shadow: 0px 1px 3px 1px rgba(178,210,53,0.5); -moz-box-shadow: 0px 1px 3px 1px rgba(178,210,53,0.5); box-shadow: 0px 1px 3px 1px rgba(178,210,53,0.5); } 
+ .bid-npb-row span { font-size: 14px; } 
+ .bid-npb-row input { width: 100%; height: 38px; padding: 3px 3px; } 
+ .bid-npb-title { margin-bottom: 10px; font-size: 16px; font-weight: 600; } 
+ .bid-npb-row { padding: 10px; } 
+ .bid-nextstep-box, .bid-chat-row { padding: 15px; } 
+ .bid-title, .bid-property-name b { font-size: 16px; } 
+ .bid-title { margin-bottom: 10px; } 
+ p.para_align { margin: 0 0 10px !important; } 
+ .bdl-left-list { width: 100%; } 
+ .bdl-left-list { width: 100%; margin-right: 0; border-right: 0; border-bottom: 1px solid #fff; padding-bottom: 9px; } 
+ .bdl-history-list { width: 100%; float: left; margin: 0; padding: 10px 0 0; } 
+ .bdl-full-list li, .bdl-left-list li, .bdl-history-list li { justify-content: space-between; flex-wrap: wrap; } 
+ .bdl-half { width: 100%; float: left; display: flex; justify-content: space-between; margin-top: 3px; } 
+ .pnap-property-name-address-box h3, .pnap-price-box p, .bid-sc-title-box span { font-size: 20px; } 
+ .pnap-price-box span { font-size: 30px; } .pnap-price-box { text-align: right; } 
+ .pnap-price-box b { font-size: 15px; margin-left: 20px; } 
+ .pnap-property-name-address-box span { font-size: 15px; margin-top: 0; } 
+ .bid-header-transaction-box { padding: 0px 15px 15px; font-size: 16px; } 
+ .bid-header-dropdown-box { width: 100%; } 
+ .bid-header-image-box { margin-top: 0; } 
+ .bid-header-dropdown-box { width: 100%; height: 40px; } 
+ .property-name-address-price { flex-direction: column; align-items: flex-start; } 
+ .bid-header-dropdown-value-box { top: 40px; } 
+ .chat-with-justin { margin: 10px 0; height: calc(100vh - 304px); background: #fff; } 
+ .ndp-message-toggle-btn-row { flex-direction: column; align-items: flex-start; } 
+ .ndp-right-box { width: 100%; margin-top: 10px; } 
+ .ndp-right-box .alert { margin: 0; padding: 5px 10px; font-size: 14px; } 
+ .ndp-buttons-row { flex-wrap: wrap; border: none; margin-top: 4px; } 
+ .ndp-button { height: 50px; width: calc(50% - 2px); align-items: center; justify-content: center; background: #b2d2352e; margin-bottom: 4px; } 
+ .ndp-button:nth-child(odd) { margin-right: 4px; } 
+ .ndp-dashboard-listing-box { margin-top: 15px; } 
+ .ndp-dashboard-listing li.ndp-dl-big-box { width: calc(50% - 7px); margin-right: 0; margin-bottom: 14px; border-radius: 8px; } 
+ .ndp-dashboard-listing li:nth-child(1) { margin-right: 14px; } 
+ .ndp-dashboard-listing li.ndp-dl-small-box { width: calc(33.33% - 9px); margin-right: 13px; } 
+ .ndp-dashboard-listing li:nth-child(5) { margin-right: 0; } 
+ .ndp-dashboard-listing li span { font-size: 15px; } 
+ }
+ 
+ @media screen and (max-width:530px){
+ .login-form-box, .edit-profile-form-box, .submit-property-box { -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; padding: 0 20px; max-width: 100%; } 
+ .submit-property-box { padding: 0; } 
+ .login-account-type-list { flex-direction: column; width: 100%; } 
+ .login-account-type-list li { width: 100%; margin-bottom: 10px; } 
+ .lh-navigation-list li { margin-left: 20px; font-weight: 400; letter-spacing: 0; font-size: 15px; text-transform: capitalize; } 
+ .cdl-data-box { flex-direction: column; } 
+ .cdl-content-box { width: 100%; margin-left: 0; margin-top: 15px; } 
+ .login-form-box { padding: 20px; } 
+ .bidhdv-list-row { flex-direction: column; display: flex; flex-wrap: wrap; } 
+ .bidhdv-content { margin: 10px 0 0; } 
+ a.bidhdv-buton { width: 100%; margin-top: 10px; } 
+ .epfb-tab-title-list { display: none; } 
+ .epfb-res-title-box { width: 100%; float: left; border: 1px solid #ccc; display: flex; text-align: center; justify-content: center; padding: 10px; font-size: 15px; font-weight: 600; color: #111; cursor: pointer; } 
+ .epfb-res-title-box.active { background: #a5c71d; color: #fff; } 
+ .epfb-tab-content > li { margin: 5px 0; } 
+ .epfb-tab-content h3 { margin-top: 10px; float: left; width: 100%; } 
+ .login-form, .edit-profile-form { max-width: 100%; } 
+ .epb-edit-btn-nonres { display: none !important; } 
+ .epb-edit-btn-title { display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 0 20px; } 
+ .epb-edit-btn-title.disbledcss .epb-edit-btn-res { display: flex !important; position: relative; top: -8px; } 
+ }
+
+@media screen and (max-width:480px){
+ .header, header { height: 50px; padding: 0 10px; } 
+ section, .section { min-height: calc(100vh - 50px); } 
+ .left-menu-icon { width: 34px; height: 34px; } 
+ .hib-user-icon { height: 34px; width: 34px; } .logo-box img { height: 36px; } 
+ .hib-user-icon-box span { display: none; } 
+ .inner-container { padding: 0 15px; } 
+ .dashboard-button-listing li { width: calc(50% - 6px); } 
+ .dashboard-button-listing li:nth-child(4) { margin-right: 0; } 
+ .dashboard-button-listing li:nth-child(5) { margin: 12px auto 0; } 
+ .dbbsl-listing { padding: 15px 0; border-radius: 10px; -webkit-box-shadow: 0 3px 10px 1px rgba(0,0,0,0.10); -moz-box-shadow: 0 3px 10px 1px rgba(0,0,0,0.10); box-shadow: 0 3px 10px 1px rgba(0,0,0,0.10); } 
+ .dbbsl-listing > li { margin: 10px 0; padding: 0 15px; } 
+ .dashboard-button-listing-only3 li { width: 100% !important; margin: 0 0 15px !important; } 
+ .dashboard-button-listing-only3 li:nth-child(3n) { margin:0 auto !important; } 
+ .dp-input-list li { width: 100%; padding: 0 !important; margin-bottom: 15px } 
+ .dp-input-list li .help-block { left: 0; position: relative; bottom: 0; } 
+ .mpl-data-box, .mpl-dtl-list-row { padding: 15px; } 
+ .mpl-data-box, .mpl-dtl-list-row, .cdl-data-box, .property-status-box, .ob-tab-title-list, .vpil-data-list { padding: 15px; } 
+ .mpl-icon-box { width: 160px; height: 130px; } 
+ .res-button-box, .pl-button-box { width: 150px; } 
+ .lb-title-box h3, .rb-title-box h3 { font-size: 16px; margin-left: 0; text-transform: capitalize; letter-spacing: 0; } 
+ .help-block { position: relative; bottom: 0; float: left; } 
+ .epf-inputfld-list li { width: 100% !important; margin-bottom: 15px; } 
+ .bid-value-list-box li { width: 100%; margin-bottom: 10px; flex-direction: row; align-items: center; justify-content: space-between; border: 1px solid #ccc; padding: 10px; } 
+ .bid-value-list-box { margin-bottom: 15px; } 
+ .backbtn-box { left:15px; } 
+ .ndp-dashboard-listing li.ndp-dl-big-box { width: calc(50% - 7px); margin-right: 0; margin-bottom: 14px; border-radius: 8px; } 
+ .ndp-dashboard-listing li:nth-child(1) { margin-right: 14px; } 
+ .ndp-dashboard-listing li.ndp-dl-small-box { width: calc(50% - 7px); margin-right: 14px; } 
+ .ndp-dashboard-listing li:nth-child(4) { margin-right: 0; } 
+ .ndp-dashboard-listing li:nth-child(5) { margin: 14px auto 0; } 
+ .ndp-dashboard-listing li span { font-size: 15px; } 
+ .ndp-message-toggle-btn-row h3 { font-size: 22px; } 
+ .my-properties-list .mpl-dtl-list-row { flex-direction: column; } 
+ .my-properties-list .mpl-dtl-list-row .dropdown-menu.show { display: block; left: 70px !important; width: calc(100% - 20px) !important; } 
+ }
+
+ @media screen and (max-width:400px){
+ .lh-navigation-list { display: none; } 
+ .loginheader { justify-content: center; } 
+ .mpl-data-box { flex-direction: column; } 
+ .res-button-box, .pl-button-box { order: 3; width: 100%; margin-top: 10px; } 
+ .mpll-btn-row > a, .mpll-btn-row > span, .md-dropdown > a { margin: 5px 0; } 
+ .new-dashboard-page { padding: 15px 15px 0; } 
+ .ndp-dashboard-listing li { width: 100% !important; margin: 0 0 10px !important; } 
+ .my-properties-list .dropdown-menu.show { display: block; left: 70px !important; width: calc(100% - 20px) !important; } 
+ }
+
+ @media screen and (max-width:360px){
+ .dashboard-button-listing li, .ndp-dashboard-listing li { width: 100% !important; margin: 0 0 10px !important; } 
+ }

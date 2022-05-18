@@ -1,0 +1,633 @@
+input[type="text"]{
+    outline: 0!important;
+}
+.profile-inner h2 {
+    font-family: Roboto;
+    color: #2A2F32;
+    font-size: 20px;
+    margin-left:27px;
+    padding-top: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.profile-inner {
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: #fff;
+    margin-top: 30px;
+    padding-top: 25px;
+    padding-bottom: 47px;
+    margin-bottom: 40px;
+}
+
+.bootstrap-tagsinput .tag {
+    margin-right: 2px;
+    color: #232323 !important;
+    background: #F3F4F8 !important;
+    padding: 8px 10px !important;
+    border: 1px solid #30CC98 !important;
+}
+
+.show li span {
+    float: right;
+}
+
+.bootstrap-tagsinput {
+    background-color: #fff;
+    border: 0px solid #ccc !important;
+    box-shadow: inset 0 1px 1px transparent !important;
+    line-height: 45px !important;
+}
+
+.md-dropdown li {
+    padding: 10px 10px 5px 10px;
+}
+
+.md-dropdown li a {
+    color: #232323;
+    font-family: Roboto;
+    font-size: 14px;
+
+}
+
+.dropdown-menu li {
+    border-bottom: 1px solid #F3F4F8 !important;
+}
+
+.profile-inner .alert-success {
+  
+    margin-left: 35px;
+    margin-right: 40px;
+}
+
+.profile-inner h2 {
+    display: block;
+    width: 100%;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+
+.verifcation .verfi-upper {
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+.verifcation input[type="text"] {
+    width: 100%;
+    color: #1D2129;
+    font-family: Roboto;
+    font-size: 15px;
+    height: 60px;
+    border: 1px solid #A0A5B9;
+    padding-left: 10px;
+}
+
+#verifyfield {
+    border: 1px solid #33D69F !important;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-right: 0;
+}
+
+#verifcationbtn {
+    width: 100%;
+    background-color: #33D69F;
+    color: #fff;
+    font-family: Roboto;
+    font-size: 17px;
+    border: 1px solid #33D69F;
+    height: 60px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.form-inner input[type="text"],.form-inner input[type="number"], .form-inner input[type="email"], .form-inner input[type="password"], select {
+    width: 100%;
+    color: #1D2129;
+    font-family: Roboto;
+    font-size: 15px;
+    height: 40px;
+    border: 1px solid #A0A5B9;
+    padding-left: 10px;
+
+    margin-bottom: 15px;
+    border-radius: 6px;
+}
+
+ .form-inner input[type="file"]
+  {
+    width: 100%;
+    color: #1D2129;
+    font-family: Roboto;
+    font-size: 15px;
+    height: 40px;
+    border: 1px solid #A0A5B9;
+    padding-left: 10px;
+    margin-top:0;
+    margin-bottom: 15px;
+    border-radius: 6px;
+}
+
+
+.property-desc h3 {
+    font-family: Roboto;
+    color: #2A2F32;
+    font-size: 20px;
+    margin-bottom: 13px;
+}
+
+.property-desc i {
+    color: #33D69F;
+}
+
+.property-desc h4 {
+    font-family: Roboto;
+    color: #30CC98 !important;
+    font-size: 14px !important;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.property-desc p {
+    font-family: Roboto;
+    color: #2A2F32;
+    font-size: 14px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.property-desc {
+    margin-top: 20px;
+}
+
+.btn-detail {
+    border-color: #9FA5BB !important;
+    font-family: Roboto !important;
+    font-size: 14px !important;
+    color: #fff !important;
+    background-color: #9FA5BB !important;
+}
+
+.logo img {
+    width: 110px;
+}
+
+
+
+.property-desc h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.form-inner {
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+.verifimd12 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.verfi-upper {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.submitbtn input[type="submit"] {
+    font-family: Roboto;
+    font-size: 16px;
+    background-color: #9FA5BB;
+    color: #fff;
+    border: 0;
+    float: right;
+    padding: 8px 30px;
+    border-radius: 6px;
+}
+
+.btn-invite-buyers {
+    background-color: #33D69F;
+    color: #fff;
+}
+
+.btn-invite-buyers:hover {
+    color: #fff;
+}
+
+.modal-header {
+    border-bottom: 0 !important;
+}
+
+.modal-footer {
+
+    border-top: 0px solid #dee2e6 !important;
+
+}
+
+.mt-li {
+    margin-top: 25px !important;
+    margin-bottom: 25px !important;
+}
+
+.sidebar {
+    background-color: #fff;
+}
+
+.md-verifi {
+    margin-bottom: 20px;
+}
+
+.dropbtn {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 200px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    /* left: 0; */
+    right: 0%;
+}
+
+#myDropdown a {
+    font-family: Roboto;
+    color: #232323;
+    font-size: 14px;
+    border-bottom: 1px solid #F3F4F8;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 10px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {
+    background-color: #fff;
+    text-decoration: none;
+}
+
+.dropdown-content span {
+    float: right;
+    color: #30CC98;
+}
+
+.property-row {
+    border: 1px solid #F6F5F9;
+    padding: 10px 0;
+    margin-bottom: 15px;
+}
+
+.show {
+    display: block;
+}
+
+#drop-btn {
+    margin: 0 auto;
+    display: table;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.dropbtn {
+    font-family: Roboto !important;
+    color: #2A2F32 !important;
+    font-size: 14px !important;
+    padding: 2px 10px !important;
+    background-color: transparent !important;
+    border: 1px solid #A0A5B9 !important;
+    border-radius: 4px !important;
+}
+
+.btn-detail {
+    margin: 0 auto !important;
+    display: table !important;
+}
+
+.profile-inner h3 {
+    font-family: Roboto;
+    font-size: 18px;
+    color: #2A2F32;
+    margin-bottom: 0;
+    margin-top: 23px;
+
+}
+
+.offers-table table {
+    border: 1px solid #F6F5F9 !important;
+}
+
+.offers-table table tr {
+    border: 0 !important
+}
+
+.offers-table table td {
+    border: 0 !important
+}
+
+.property-img img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 13px;
+}
+
+.rejected-btn a {
+    font-family: Roboto;
+    color: #E82020;
+    font-size: 14px;
+    border: 1px solid #E82020;
+    padding: 6px 34px;
+    border-radius: 5px;
+}
+
+.accepted-btn a {
+    font-family: Roboto;
+    color: #33D69F;
+    font-size: 14px;
+    border: 1px solid #33D69F;
+    padding: 6px 32px;
+    border-radius: 5px;
+}
+
+.accepted-btn a:hover {
+    text-decoration: none;
+    color: #33D69F;
+
+}
+
+.rejected-btn a:hover {
+    text-decoration: none;
+    color: #E82020;
+}
+
+.rejected-btn {
+    margin-top: 14px;
+}
+
+.property-name p {
+    margin-bottom: 0;
+    margin-top: 15px;
+
+    font-family: Roboto;
+    font-size: 14px;
+    color: #2A2F32;
+    font-weight: bold;
+}
+
+#rejected-data {
+    float: right;
+}
+
+#bid-price {
+    float: right;
+}
+
+.outer-tr {
+    background-color: #F3F4F8;
+}
+
+.outer-tr td {
+    font-family: Roboto;
+    color: #2A2F32;
+    font-size: 14px;
+}
+
+.outer-tr span {
+    float: right;
+}
+
+.outer-tr span a {
+    font-family: Roboto;
+    color: #fff;
+    font-size: 14px;
+    border: 1px solid #33D69F;
+    padding: 6px 10px;
+    border-radius: 5px;
+    background-color: #33D69F;
+}
+
+.outer-tr p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.outer-tr span a:hover {
+    text-decoration: none;
+}
+
+.biddetail-outer {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.biddetail-outer {
+    position: relative;
+}
+
+.property-detail-btn {
+    position: absolute;
+    top: 2%;
+    right: 5%;
+    font-family: Roboto;
+    font-size: 14px;
+    color: #fff;
+    background-color: #33D69F;
+    padding: 8px 20px;
+    border-radius: 6px;
+}
+
+.property-detail-btn a {
+    color: #fff;
+}
+
+.property-detail-btn a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.offers_detail_table {
+    margin-top: 20px;
+    border: 1px solid #F6F5F9;
+}
+
+.offers_detail_table td {
+    font-family: Roboto;
+    color: #2A2F32;
+    font-size: 14px;
+}
+
+.offers_detail_table td:nth-child(2) {
+    font-weight: bold
+}
+
+.bid-details h5 {
+    font-family: Roboto;
+    margin-top: 29px;
+    color: #2A2F32;
+
+    margin-top: 75px;
+    margin-bottom: 0;
+    font-weight: bold;
+
+}
+
+.bid-accepted a {
+    background-color: #F3F4F8;
+    padding: 8px 20px;
+    border-radius: 30px;
+    font-family: Roboto;
+    color: #1D2129;
+}
+
+.bid-accepted a:hover {
+    text-decoration: none;
+    color: #1D2129;
+}
+
+.table {
+    margin-bottom: 0 !important;
+}
+
+p {
+    margin-bottom: 0 !important;
+}
+
+.seller-data p {
+    font-family: Roboto;
+    color: #1D2129;
+    font-size: 14px;
+    text-align: center;
+}
+
+.bid-accepted {
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.seller-data {
+    margin-top: 10px;
+}
+
+#right-detail {
+    height: 553px;
+    overflow-y: scroll;
+}
+
+#right-detail {
+    margin-top: 120x;
+}
+
+#buying-id {
+    padding-top: 16px;
+}
+
+.bullets {
+    width: 10px;
+    height: 10px;
+    background-color: #37E974;
+    position: absolute;
+    top: 76%;
+    left: 10%;
+    border-radius: 50%;
+}
+
+@media screen and (min-width: 992px) {
+    .properties-upper {
+        margin-left: 21px;
+        margin-right: 21px;
+    }
+    
+    .property-img img {
+
+        margin-right: 15px !important;
+    }
+
+    .property-name p {
+
+        margin-left: 14px;
+
+    }
+
+    .property-img img {
+        margin: 0 auto;
+        display: table;
+    }
+
+    .offers-table tr td:nth-child(3) {
+        text-align: right;
+
+    }
+
+    #drop-btn {
+        float: right !important;
+    }
+
+    .btn-detail {
+        float: left;
+    }
+
+    .property-desc p {
+
+        text-align: left;
+    }
+
+    .property-desc h4 {
+
+        text-align: left;
+    }
+
+    .property-desc h3 {
+        text-align: left;
+    }
+
+    .property-img img {
+        float: left;
+    }
+
+    .profile-inner {
+        margin-left: 40px;
+        margin-right: 10px;
+
+    }
+
+    .md-verifi {
+        margin-bottom: 0;
+    }
+
+    .verfi-upper {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+
+    .mdverifisubmit {
+        padding-left: 0 !important;
+    }
+
+    .md-verifi {
+        padding-right: 0 !important;
+    }
+
+}
+

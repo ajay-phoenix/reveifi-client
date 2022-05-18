@@ -1,0 +1,213 @@
+.btn-invite-buyers {
+    background-color: #33D69F;
+    color: #fff;
+}
+
+.btn-invite-buyers:hover {
+    color: #fff;
+}
+
+.modal-header {
+    border-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.modal-footer {
+    border-top: 0px solid #dee2e6 !important;
+}
+
+.tag_list_wrapper {
+    font-family: Roboto;
+    font-size: 14px;
+    color: 1px solid red;
+    color: #232323;
+    border: 1px solid #A0A5B9;
+    padding: 10px 0;
+    border-radius: 5px;
+}
+
+.btn-buying-room {
+    font-family: 'Roboto';
+    background-color: #33D69F;
+    color: #fff;
+    padding: 8px 8px;
+    font-size: 14px;
+    border-radius: 4px;
+}
+
+.btn-buying-room-rejected {
+    font-family: 'Roboto';
+    background-color: #33cbd6;
+    color: #fff;
+    padding: 8px 8px;
+    font-size: 14px;
+    border-radius: 4px;
+}
+
+.tag_list {
+    display: inline-block;
+    vertical-align: top;
+    background: #F3F4F8;
+    background: #F3F4F8;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px 33px 5px 12px;
+    border: 1px solid #30CC98;
+    position: relative;
+}
+
+.tag_list.tag_list_hide {
+    display: none;
+}
+
+.dropdown .btn-primary {
+    color: #000 !important;
+    background-color: #FFFFFF !important;
+    border-color: #A0A5B9 !important;
+    font-size: 14px !important;
+    padding: 5px 10px 5px 10px !important;
+}
+
+.tag_list span {
+    position: absolute;
+    right: 8px;
+    top: 7px;
+    cursor: pointer;
+}
+
+.modal-header h5 {
+    font-family: Roboto;
+    color: #2A2F32;
+    font-size: 18px;
+}
+
+.propertyinner-row {
+    margin-bottom: 20px;
+}
+
+.property-desc h3 {
+    margin-bottom: 5px !important;
+}
+
+.property-desc span {
+    margin-left: 8px;
+}
+
+.btn-detail {
+    padding: 7px 12px !important;
+}
+
+.btn-buying-room:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.buying-room-btn {
+    margin-bottom: 15px;
+}
+
+.btn-detail {
+    padding: 8px 8px;
+    font-size: 14px;
+    border-radius: 4px;
+}
+
+.btn-detail a:hover {
+    text-decoration: none;
+}
+
+.property-desc a:hover {
+    text-decoration: none;
+}
+
+.invitedBuyers h3 {
+    font-family: Roboto;
+    color: #2A2F32;
+    font-size: 18px;
+}
+
+.cross-section {
+    width: 100% !important;
+}
+
+.btn-invite-buyers {
+    font-family: Roboto !important;
+    font-size: 16px !important;
+    background-color: #33D69F !important;
+    color: #fff !important;
+}
+
+.popup-btns button {
+    font-family: Roboto !important;
+    border: 1px solid #30CC98 !important;
+    padding: 4px 10px !important;
+    border-radius: 5px !important;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+.popup-btns span {
+    margin-left: 0px !important;
+}
+
+.popup-btns {
+    margin-left: 5px;
+    margin-right: 0px;
+}
+
+.bootstrap-tagsinput .tag {
+    margin-right: 2px;
+    color: #232323 !important;
+    background: #F3F4F8 !important;
+    padding: 8px 10px !important;
+    border: 1px solid #30CC98 !important;
+    font-family: Roboto !important;
+    font-size: 14px !important;
+    border-radius: 4px !important;
+}
+
+.bootstrap-tagsinput .tag span {
+    margin-left: 11px !important;
+}
+
+.md-dropdown li a {
+    color: #232323;
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+.outer-dropdown {
+    width: 100%;
+}
+
+.dropdown-menu>li>a:hover {
+    background-color: transparent !important;
+}
+
+.outer-dropdown .dropdown-menu li {
+    border-bottom: 0px solid #F3F4F8 !important;
+}
+
+.outer-dropdown .md-dropdown li {
+    padding: 0 !important;
+}
+
+@media (min-width: 576px) {
+    .modal-lg,
+    .modal-xl {
+        max-width: 682px !important;
+    }
+}
+
+@media screen and (min-width: 768px) {}
+
+@media screen and (min-width: 992px) {
+    .outer-dropdown {
+        width: auto;
+    }
+    .modal-lg,
+    .modal-xl {
+        max-width: 661px;
+    }
+}

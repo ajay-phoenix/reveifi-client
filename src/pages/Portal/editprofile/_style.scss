@@ -1,0 +1,246 @@
+.form-skeleton {
+  .react-loading-skeleton {
+    margin: 15px 0;
+  }
+}
+
+#verifcationbtn {
+  height: 40px;
+}
+
+.verfi-upper{
+  max-width: 100%!important;
+  margin: 0 20px!important;
+}
+.disbledcss .imageInput {
+  pointer-events: none;
+  cursor: not-allowed;
+}
+.user-avatar {
+  width: 90px;
+  height: 90px;
+  border-radius: 100%;
+}
+.arp-close-btn {
+  width: 800px !important;
+  height: 70px !important;
+}
+#upper-dropdown {
+  margin-top:15px;
+}
+#inner-country {
+  margin-top:15px;
+}
+.user-error{
+  position: fixed;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-weight: bolder;
+  font-size: 40px;
+  color: #FFF;
+}
+.redirect-login,.redirect-login:active,
+.redirect-login:focus,.redirect-login:active:focus{
+  display: block;
+  font-size: 20px;
+  color:#B2D235 !important;
+  text-decoration: underline;
+}
+.preApproveDoc,.preApproveDoc:hover,.preApproveDoc:focus,.preApproveDoc:active,
+.preApproveDoc:focus,.preApproveDoc:active:focus{
+  color:#FFF;
+  text-decoration: none;
+}
+#avatar_input{
+  display : none;
+}
+.profileImageUpload{
+  width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    border-radius: 10px;
+    background: #B2D235;
+    color: white;
+    font-size: 13px;
+    font-family: sans-serif;
+    margin: 10px 10px 0; 
+}
+a.editButton {
+  position: absolute;
+  top: 0;
+  font-size: 14px;
+  right: 14%;
+  background: #B2D235;
+  padding: 10px;
+  border-radius: 15px;
+  color: #333;
+  text-decoration: none;
+}
+a.editButton:hover,a.editButton:focus,a.editButton:active{
+  color: #333;
+  text-decoration: none;
+}
+a.editButton i {
+  font-weight: 200;
+  margin-right: 5px; 
+}
+//header, .header{background-color: red;}
+.pps-prrofile-details-outer-box {
+  display: block;
+}
+.ppspd-content-box{ margin: 0; }
+@media screen and (max-width: 760px){
+  .ppspd-image-message-box { width: 100%; }
+  .bottom-content { padding-top: 0rem!important; margin-left: 35px !important; }
+}
+
+.social-icons {
+  padding-right: 20px;
+
+  i{
+    color: #fff;
+    margin: 0 10px;
+    font-size: 20px;
+  }
+
+  img{
+    width: 26px;
+    margin: 0 10px;
+    height: 26px;
+  }
+}
+
+.ppspd-image-box {
+  width: 260px;
+  height: 260px;
+}
+
+/* .bottom-content {
+  position: absolute!important;
+  bottom: 0;
+  right: 15px;
+} */
+.font-weight-900{ font-weight: 900; }  
+.bottom-content {
+  margin-top: 70px;
+  margin-right: 35px; 
+  .card{
+    border-radius: 0 !important;
+    padding: 3px !important;
+  }
+  @media screen and (max-width: 768px){
+    margin-top: 0px;
+}
+}
+.profile-page-seciton{
+  min-height: 25vh;
+}
+
+.vmlbtn{
+  display: flex !important;
+  margin-top: 80px;
+  font-weight: 700 !important;
+  font-size: 14px !important;
+  padding: 10px 18px;
+  width: 170px;
+  border-radius: 10px !important;
+
+  i{
+    font-size: 22px;
+  }
+
+  @media screen and (max-width: 768px){
+    margin: 30px auto;
+}
+}
+
+.profile-bottom-section{
+  h5 { color: #3a434d; }
+}
+
+.ppspd-content-box{
+  .ppspd-name, .ppspd-companyname, .ppspd-usertye span {
+    font-family:"dunbar-text";
+    font-weight: 700;
+    font-style: normal;
+  }
+  .ppspd-title-company, .ppspd-address, .ppspd-phone, .ppspd-mail, .vmlbtn{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+  }
+}
+
+.profile-page-seciton{
+  .card{
+    h6, h3{
+      font-family:"dunbar-text";
+      font-weight: 700;
+      font-style: normal;
+    }
+    h6, .d-flex{
+      font-family: 'Roboto', sans-serif;
+      font-weight: 500;
+      font-style: normal;
+    }
+  }
+  .vmlbtn {
+    font-family:"dunbar-text";
+    font-size: 13px !important;
+    padding-top: 7px;
+}
+}
+
+
+.ppspd-message-box{
+  span{
+    font-family:"dunbar-text";
+  }
+}
+
+.editButton{
+  span{
+    font-family:"dunbar-text";
+  }
+}
+
+.htmod{
+  .card{
+    height:85px;
+    background: #e5e6e5;
+  }
+}
+
+.profile-bottom-section{
+  h5, h6{
+    font-family:"dunbar-text";
+    font-weight: 700;
+    font-style: normal;
+  }
+  h6{
+    font-size: 16px;
+  }
+  .card p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+}
+.thumb-up-image{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.font-weight-bold-italic{
+  font-family:"dunbar-text";
+  src:url("https://use.typekit.net/af/341d83/00000000000000007735b15a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/341d83/00000000000000007735b15a/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/341d83/00000000000000007735b15a/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+  font-display:auto;font-style:italic;font-weight:700;
+}

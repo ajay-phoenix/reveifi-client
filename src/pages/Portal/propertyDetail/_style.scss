@@ -1,0 +1,239 @@
+.profile-inner h2 {
+
+    width: 100%;
+}
+
+
+
+.tester_new {
+  padding: 20px 0 100px;
+}
+.tester_new hr {
+  width: 100px;
+}
+.tester_new .carousel-item p {
+  color: #666;
+  line-height: 28px;
+  letter-spacing: 1px;
+} 
+.tester_new .carousel-item hr {
+  width: 100px;
+}
+.tester_new .carousel-item h5 {
+  font-weight: 700;
+  margin-bottom: 0;
+}
+.tester_new .carousel-indicators li {
+  height: 70px;
+  width: 100px;
+  background-image: url(http://reverifi.trisec.io/images/slider-1.png);
+  background-position: center;
+  background-size: cover;
+
+  border: 5px solid #f1f2f3;
+  opacity: 0.4;
+  box-shadow: 0px 0px 5px 1px #ccc;
+  margin: 0 10px;
+  cursor:pointer;
+}
+.tester_new .carousel-indicators li:nth-child(2) {
+  background-image: url(http://reverifi.trisec.io/images/slider-1.png);
+}
+.tester_new .carousel-indicators li:nth-child(3) {
+  background-image: url(http://reverifi.trisec.io/images/slider-1.png);
+}
+.carousel-indicators {
+    bottom: -99px;
+    background-color: #fff;
+    max-width: 390px;
+    margin: 0 auto;
+    padding: 9px 0;
+    border-radius: 5px;
+    margin-right:0% !important;
+    margin-left: 31% !important;
+    margin-bottom: 31px !important;
+}
+.tester_new .carousel-indicators .active {
+  opacity: 1;
+}
+
+.tabs-row .nav-item .active {
+  background-color:#33D69F;
+  color:#fff;
+  font-family:Roboto;
+  font-size:15px;
+}
+.nav-tabs .nav-link {
+  border: 0px solid transparent !important;
+}
+.nav-tabs {
+    border-bottom: 0px solid #dee2e6 !important;
+}
+.property-title h3 {
+  margin-left: -3px;
+  margin-bottom: 20px;
+}
+.tabs-row ul  {
+      background-color: #F3F4F8 !important;
+      width: 441px;
+}
+.tabs-row .nav-link {
+  font-family: Roboto;
+    color: #2A2F32;
+    font-size: 15px;
+}
+
+.tabs-row .nav-link {
+      padding: 10px 20px;
+}
+.tabs-row {
+     margin-left: 0px;
+    border-bottom: 1px solid #F3F4F8;
+    margin-right: 0px;
+}
+.rowtabscontent {
+      margin-left: 0px;
+    border-left: 1px solid #F3F4F8;
+    border-right: 1px solid #F3F4F8;
+    border-right: 1px solid #F3F4F8;
+    margin-right: 0px;
+    border-bottom: 1px solid #F3F4F8;
+}
+
+.tabs-content-upper h3 {
+    font-family: Roboto;
+    color: #2A2F32;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.tabs-content-upper {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.tab-content {
+    width: 100%;
+}
+.table-outer {
+     border: 1px solid #F3F4F8;
+   
+    margin-bottom: 20px;
+}
+.table-outer th, td {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 0px solid #dee2e6 !important;
+}
+
+tr:nth-child(even) {
+  background:#F3F4F8;
+}
+
+td:first-child { font-weight: bold; 
+font-family:Roboto;
+font-size:14px;
+padding-left: 30px;
+}
+td {
+      color: #2A2F32;
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+.inner-most h3 {
+  font-family:Roboto;
+  font-size:18px;
+  color:#2A2F32;
+}
+.inner-most h4 {
+ font-family:Roboto;
+ font-size:15px;
+ color:#232323; 
+}
+.inner-most p {
+  margin-top:5px;
+  margin-bottom:5px;
+}
+
+.inner-most {
+      margin-bottom: 25px;
+}
+.tabs-map {
+  margin-top:40px;
+  margin-bottom:40px;
+  margin-left:20px;
+  margin-right:20px;
+}
+.profile-inner h2 {
+    font-family: Roboto;
+    color: #2A2F32;
+    font-size: 18px;
+    margin-left:27px;
+    padding-top: 15px;
+    text-align: center;
+}
+#nameupper {
+  margin-left: 35px;
+  margin-bottom: 30px;
+}
+#nameupper .active {
+  background-color:#33D69F !important;
+  color:#fff !important;
+}
+
+
+
+
+
+@media screen and (min-width:576px) {
+  .rowtabscontent {
+      margin-left: 40px;
+  
+    margin-right: 40px;
+   
+}
+
+  .tabs-row {
+     margin-left: 40px;
+   
+    margin-right: 40px;
+}
+
+  .carousel-indicators {
+    bottom: 25px;
+  
+}
+
+.profile-inner h2 {
+
+  margin-left:27px;
+    
+    
+}
+.bid-desc {
+    float: right;
+    margin-right: 66px;
+}
+
+}
+
+@media screen and (min-width:600px) {
+
+.tabs-row {
+    margin-top: -75px;
+}
+  
+
+
+}
+
+@media screen and (min-width:768px) {
+  .profile-inner h2 {
+
+    text-align: left;
+    
+}
+
+}

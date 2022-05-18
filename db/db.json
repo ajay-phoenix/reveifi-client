@@ -1,0 +1,30 @@
+{
+
+  "login": [
+
+    {
+     
+      "name": "asif",
+      "password": "123"
+    
+    }
+  ],
+
+  "restaurant": [
+
+    {
+      "id": 2,
+      "name": "zinger",
+      "address": "karachi",
+      "rating": "4.5",
+      "email": "ali@gmail.com"
+    },
+    {
+      "name": "KFC ",
+      "address": "karachi hotel ",
+      "rating": "2.56",
+      "email": "karachi@yahoo.com",
+      "id": 3
+    }
+  ]
+}

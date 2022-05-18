@@ -1,0 +1,331 @@
+.propertyChatUpper {
+    background-color: #FFFFFF;
+}
+
+.para_align {
+    background-color: #D3F5E9;
+    color: #2A2F32;
+    text-align: center;
+    font-family: Roboto;
+    padding: 8px 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+
+.propertyChatContent {
+    border: 1px solid #F6F5F9;
+    margin-top: 161px;
+    margin-bottom: 50px;
+}
+
+.detail-desc-para p {
+    font-family: Roboto;
+    color: #1D2129;
+    font-size: 16px;
+    // background-color: #F3F4F8;
+    padding: 8px 0px;
+    border-radius: 20px;
+    text-align: left!important;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 15px;
+    padding: 10px !important;
+    width: fit-content;
+}
+
+.buyer_msg {
+    background-color: #97D8E7 !important;
+}
+
+.buyer_realtor_msg {
+    background-color: #3A434D !important;
+    color: #fff !important;
+}
+
+.lender_msg {
+    background-color: #B2D235 !important;
+}
+
+.seller_msg {
+    background-color: #E5E6E5 !important;
+}
+
+.seller_realtor_msg {
+    background-color: #3A434D !important;
+    color: #fff !important;
+}
+
+.detail-desc-para p span {
+    font-size: 10px;
+    display: flex;
+}
+
+.bid-details {
+    margin-top: 60px;
+}
+
+.record-not-found {
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+}
+// #inner-detil {
+//     max-width: 60% !important;
+// }
+// #detail-bottom {
+//     max-width: 60%;
+//     //margin-left: 115px;
+//     float: right;
+//     font-size: 16px;
+//     display: flex;
+// }
+#detail-bottom span {
+    padding-left: 0;
+    display: flex;
+}
+
+#inner-detil p {
+    // background-color: #3578E5 !important;
+    // color: #fff !important;
+    color: #1D2129;
+    font-size: 16px;
+}
+
+#inner-detil p {
+    padding: 8px 15px;
+    width: fit-content;
+    clear: both;
+}
+
+.property-detail-btn-1 {
+    position: absolute;
+    top: 8%;
+    right: 40%;
+    font-family: Roboto;
+    font-size: 14px;
+    color: #fff;
+    background-color: #33D69F;
+    padding: 8px 20px;
+    border-radius: 6px;
+}
+
+.property-detail-btn {
+    position: absolute;
+    top: 2%;
+    right: 5%;
+    font-family: Roboto;
+    font-size: 14px;
+    color: #fff;
+    background-color: #33D69F;
+    padding: 8px 20px;
+    border-radius: 6px;
+}
+
+.property-detail-btn-1 a {
+    color: #fff;
+}
+
+.property-detail-btn-1 a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.modal-footer .btn-default {
+    font-family: Roboto;
+    font-size: 14px;
+    color: #fff;
+    background-color: #33D69F;
+}
+
+#mssg {
+    width: 100%;
+    background-color: #F6F5F9;
+    font-family: Roboto;
+    color: #232323;
+    height: 50px;
+    border: 0 !important;
+    padding-left: 10px;
+    border-radius: 10px;
+    padding-right: 110px;
+}
+
+.chat-msgs {
+    position: relative;
+}
+
+.property-img {
+    float: left !important;
+    margin-top: 13px !important;
+}
+
+#submit {
+    position: absolute;
+    left: 83%;
+    top: 13%;
+    background-color: #33D69F;
+    font-family: 'Roboto';
+    color: #fff;
+    border: 0;
+    padding: 6px 18px;
+    border-radius: 6px;
+}
+
+.propertyChatUpper {
+    border-radius: 10px;
+}
+
+.profile-inner {
+    border-radius: 10px;
+}
+
+#buying-room-inner {
+    padding-top: 8px;
+}
+
+.documents-uppers h2 {
+    text-align: center;
+}
+
+.documents-uppers {
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding: 13px;
+}
+
+#uploaded-file input[type="file"] {
+    width: 100%;
+    color: #1D2129;
+    font-family: Roboto;
+    font-size: 15px;
+    height: 40px;
+    border: 1px solid #A0A5B9;
+    padding-left: 10px;
+    border-radius: 6px;
+}
+
+.documents-uppers table {
+    width: 100%;
+}
+
+.documents-uppers h2 {
+    font-family: Roboto;
+    color: #2A2F32;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.documents-left {
+    float: left;
+    background-color: #fff;
+    padding-right: 5px;
+    padding-bottom: 13px;
+    padding-top: 5px;
+}
+
+.doc-pdf {
+    float: left;
+    font-size: 24px;
+    margin-left: 8px;
+    color: #C93636;
+    margin-right: 8px;
+    margin-top: 5px;
+}
+
+.pdf-desc {
+    line-height: 18px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.docs-color {
+    background-color: #F3F4F8;
+}
+
+.document-outer-section {
+    position: relative;
+}
+
+.pdf-download {
+    position: absolute;
+    top: 28%;
+    right: 10%;
+    font-size: 19px;
+    color: #33D69F;
+}
+
+.document-right {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.doc-upper {
+    border: 1px solid #F6F5F9;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.chat-start-end-msg {
+    height: 400px;
+    // overflow-y: scroll;
+}
+
+.chat-msgs input[type="text"] {
+    width: 100%;
+}
+
+.property-detail-btn {
+    top: 8%;
+}
+
+@media only screen and (min-width: 992px) {
+    .chat-msgs {
+        margin-left: 10px;
+        margin-right: 55px;
+    }
+    #detail-bottom {
+        max-width: 60%;
+        margin-left: 240px;
+    }
+}
+
+@media only screen and (min-width: 1230px) {
+    .property-detail-btn {
+        position: absolute;
+        top: 2%;
+        right: 5%;
+        font-family: Roboto;
+        font-size: 14px;
+        color: #fff;
+        background-color: #33D69F;
+        padding: 8px 20px;
+        border-radius: 6px;
+    }
+    .property-detail-btn-1 {
+        position: absolute;
+        top: 2%;
+        right: 29%;
+    }
+}
+
+@media only screen and (max-width: 1230px) {
+    .para_align {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .propertyChatContent {
+        border: 1px solid #F6F5F9;
+        margin-top: 68px;
+        margin-bottom: 50px;
+        padding: 30px 0;
+    }
+    #submit {
+        position: absolute;
+        left: 76%;
+        top: 2%;
+    }
+    .chat-start-end-msg {
+        height: 400px;
+        overflow-y: scroll;
+    }
+}

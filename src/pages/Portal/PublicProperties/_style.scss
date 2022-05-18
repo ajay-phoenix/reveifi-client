@@ -1,0 +1,45 @@
+.pst-icon {
+  margin-right: 16px;
+}
+.slick-slider.position-relative.slick-initialized {
+  margin-top: 20px;
+}
+
+
+// Fonts adjustments
+.bdetails{
+   h1{
+    font-family:"dunbar-text";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 1.21rem !important;
+   }
+   h6{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: rgba(0,0,0,.2)!important;
+   }
+   h5{
+      b{
+        font-family:"dunbar-text";
+        font-weight: 700;
+        font-style: normal;
+      }
+      span{
+        font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        color: rgba(0,0,0,.2)!important;
+      }
+    } 
+}
+.mt--4px { margin-top: -4px; }
+.row{ display: block ruby!important; }
+.mpll-title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}

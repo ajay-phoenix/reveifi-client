@@ -1,0 +1,40 @@
+.buying-room {
+  background-color: #9FA5BB !important;
+  color: #FFFFFF !important;
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  font-family: 'Roboto' !important;
+  border: 0px solid #33D69F !important;
+}
+
+.accepted-below {
+  margin-top: 15px;
+}
+
+#controlled-tab-example-tab-offer {
+  font-weight: 500 !important;
+  font-size: 25px !important;
+}
+
+#controlled-tab-example-tab-offer.active {
+  background: #97d8e7;
+  color: white !important;
+}
+
+#controlled-tab-example-tab-invitatons {
+  font-weight: 500 !important;
+  font-size: 25px !important;
+}
+
+#controlled-tab-example-tab-invitatons.active {
+  background: #97d8e7;
+  color: white !important;
+}
+
+@media screen and (max-width: 800px) {
+
+  .outer-tr span {
+    margin-top: 18px;
+  }
+
+}
